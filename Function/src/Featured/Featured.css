@@ -1,0 +1,44 @@
+.feat{
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    color: #22262A;
+    text-align: center;
+    margin-top: 5%;
+    }
+    .red{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FF4858;
+    }
+    .grey{
+        font-style: normal;
+        margin-left: 5px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #C1C8CE;
+    }
+    .blue{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 19px;
+    }
+    .imgalign{
+        display: flex;
+        margin-left:2%;
+        }
+    .imgalign1{
+        display: flex;
+        margin-left:3%;
+    }
+    .imgalign2{
+        display: flex;
+        margin-left:1%;
+    }
+    .dock{
+        justify-content: space-evenly;
+    }

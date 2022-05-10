@@ -1,0 +1,13 @@
+.fonty{
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+color: #262626;
+}
+.colors{
+    color: #d5d1d1;  
+}
+.currency{
+    border: none;
+    outline:none;
+}

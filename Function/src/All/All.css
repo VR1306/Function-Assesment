@@ -1,0 +1,86 @@
+.tex1{
+    font-style: normal;
+font-weight: 600;
+font-size: 35px;
+color: #22262A;
+}
+.text2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.text2:hover{
+    color:  #33A0FF;
+}
+.card{
+    width: 300px;
+    height: 360px;
+}
+.titles{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+letter-spacing: 0.5px;
+color: #223263;
+}
+.dollars{
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+letter-spacing: 0.5px;
+color: #40BFFF;
+
+}
+
+.colorfor53{
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;    
+    letter-spacing: 0.5px;
+    text-decoration-line: line-through;
+    color: #9098B1;
+}
+.offe{
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+letter-spacing: 0.5px;
+color: #FB7181;
+}
+
+.image {
+  opacity:1;
+  display: block;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containers:hover .image {
+  opacity: 0.1;
+}
+
+.containers:hover .middle {
+  opacity: 1;
+  cursor: pointer;
+}
+
+.text {
+  color: #40BFFF;
+  font-size: 16px;
+  padding: 16px 32px;
+}

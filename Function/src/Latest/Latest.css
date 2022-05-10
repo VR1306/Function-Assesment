@@ -1,0 +1,36 @@
+.LATEST{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 51px;
+    color: #22262A;
+    margin-left:40%;
+    margin-top:7%;
+    }
+    
+    .Nike{
+        display:flex;
+        margin-top:3%;
+        text-align: center;
+    }
+    .Date{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #C1C8CE;
+    }
+    .fas{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    }
+    .imgflex{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .content12{
+        font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    }

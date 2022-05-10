@@ -1,0 +1,44 @@
+.Ship{
+    margin-top:5%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Free{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px; 
+}
+.image{
+    margin-left:35px ;
+}
+.Lorem{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px; 
+    margin-left: 10px;
+    padding: 2px;
+}
+.Refund{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px; 
+}
+.signs{
+    color: #FF6875;
+    margin-left: 60%;
+}
+.signs1{
+    color: #FF6875;
+    position: absolute;
+    margin-left: 60%;
+}
+.Ship1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.Ship2{
+    display: flex;
+    justify-content: space-evenly;
+
+}

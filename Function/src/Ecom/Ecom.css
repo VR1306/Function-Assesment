@@ -1,0 +1,66 @@
+.fonty1{
+    font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #262626;
+}
+.fonty1:hover{
+color: #40BFFF;
+}
+.font1{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: cursive;
+}
+.dropdown-item:hover{
+background: none !important;
+}
+.dropdown-menu{
+    background-color: transparent !important;
+    border: transparent !important;
+    border: none !important;
+  }
+  .dropdown-menu .dropdown-item > li > a:hover {
+    background-image: none !important;
+    
+  }
+  
+  .navbar {
+    background: none !important;
+  }
+  .dropdown-content a:hover {
+      color: burlywood !important;
+  }
+  .hovering:hover{
+      color: #b5e5fd;
+      font-family: cursive;
+       font-weight: 600;
+  }
+
+  .catlog{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+  }
+  .catlog:hover{
+    color: #f1bda9;
+    text-align: center;
+  }
+  .backgro{
+    height: 20rem;
+    background-color: #f8fcee;
+    border-radius:1.6%;
+  }
+  .font2{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    font-family: cursive;
+}
+.font3{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  font-family: cursive;
+}

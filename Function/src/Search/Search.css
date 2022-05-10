@@ -1,0 +1,19 @@
+.btnw{
+    width:7%;
+    height:50px;
+    border:none;
+    background-color: #40BFFF;
+    position: absolute;
+    color: #FFFFFF;
+    border-radius: 5%;
+}
+.textbocs{
+    width:35%;
+    height:50px;
+    margin-left: 30%;
+    outline: none;
+    border: 2px #40BFFF solid;
+}
+.OVERALL{
+    margin-top: 10%;
+}

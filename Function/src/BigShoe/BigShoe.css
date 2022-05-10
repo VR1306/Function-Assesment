@@ -1,0 +1,54 @@
+.Adidas{
+
+    font-style: normal;
+   font-weight: 500;
+   font-size: 55px;
+   margin-top: 20%;
+   margin-left:25px;
+   margin-bottom: 10%;
+   color: #FFFFFF;
+   }
+   .padblue{
+       background-color:  #40BFFF;
+       margin-top:5%;
+       position:relative;
+   }
+   .design{
+       font-style: normal;
+       font-weight: 400;
+       font-size: 24px; 
+       margin-left:5%;
+       color: #FFFFFF;
+   }
+   .Shop{
+       font-style: normal;
+       font-weight: 600;
+       font-size: 20px;
+       margin-left:5%;
+       color: #FFFFFF;
+       margin-top:5%;
+       padding: 30px;
+   }
+   .underline{
+       margin-top: 10px;
+       width: 4.5rem;
+       height: 0.30rem;
+       border-bottom:solid  ;
+       color:  #FFFFFF ;
+       margin-right: auto;
+   }
+   .Shoe{
+       position:absolute;
+       bottom:2px
+   }
+   .load{
+    font-style: normal;
+font-weight: 500;
+font-size: 22px;
+margin-bottom: 20%;
+color: #33A0FF;
+text-decoration: underline;
+}
+.load:hover{
+    color: #40BFFF;
+}
